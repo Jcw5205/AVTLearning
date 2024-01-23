@@ -1,5 +1,4 @@
 import Williams_James as Jc
-import Sweeney_Gavin as Gavin
 import Amin_Prachit as Prachit
 
 def names():
